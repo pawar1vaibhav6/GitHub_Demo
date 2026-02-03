@@ -9,3 +9,6 @@ def four(x):
 
 def five(x):
 	return x**5
+
+def six(x):
+	return x**7
