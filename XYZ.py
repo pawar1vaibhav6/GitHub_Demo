@@ -8,4 +8,8 @@ def four(x):
     return x**4
 
 def five(x):
-    return x**6
+	return x**5
+
+def six(x):
+	return x**6
+
