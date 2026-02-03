@@ -11,4 +11,5 @@ def five(x):
 	return x**5
 
 def six(x):
-	return x**7
+	return x**6
+
