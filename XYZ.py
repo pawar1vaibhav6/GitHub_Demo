@@ -12,6 +12,11 @@ def five(x):
 
 def six(x):
 	return x**6
+<<<<<<< Updated upstream
 
 def seven(x):
       return x**7
+=======
+qdef eight(x):
+    return x**8
+>>>>>>> Stashed changes
