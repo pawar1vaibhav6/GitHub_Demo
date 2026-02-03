@@ -13,3 +13,5 @@ def five(x):
 def six(x):
 	return x**6
 
+def seven(x):
+      return x**7
