@@ -6,3 +6,6 @@ def cube(x):
 
 def four(x):
     return x**4
+
+def five(x):
+	return x**5
